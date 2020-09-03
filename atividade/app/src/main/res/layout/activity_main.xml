@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculadora das Metas"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textSize="25sp"
+        android:textColor=" #7f479b"
+        android:textStyle="bold"
+        android:id="@+id/tv_topo"
+         />
+
+    <TextView
+        android:id="@+id/tv_header"
+        android:layout_width="294dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="5dp"
+        android:text="Olá, esta ferramenta irá te ajudar a conquistar suas metas :)"
+        android:textSize="20sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_topo"
+
+        />
+
+    <EditText
+        android:id="@+id/et_nome"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:hint="Digite seu nome"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_header"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/et_meta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:hint="Meta: Carro, viagem, formatura, etc"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_nome"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/et_valormeta"
+        android:layout_width="288dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="20dp"
+        android:hint="Valor em reais da meta"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_meta"
+        android:inputType="number"
+        />
+
+    <TextView
+        android:id="@+id/tv_texto2"
+        android:layout_width="309dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="15dp"
+        android:text="Quanto vc guardará da sua renda este mês para atingir a sua meta?"
+        android:textSize="20sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_valormeta" />
+
+    <EditText
+        android:id="@+id/et_valorguardado"
+        android:layout_width="270dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="5dp"
+        android:hint="Valor em reais"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_texto2"
+        android:inputType="number"
+        />
+
+    <Button
+        android:id="@+id/bt_btn"
+        android:layout_width="276dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="20dp"
+        android:text="Calcular"
+        android:textSize="20sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_valorguardado"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/bt_btn"
+        android:text="Resultado"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_resultado"
+
+    />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
