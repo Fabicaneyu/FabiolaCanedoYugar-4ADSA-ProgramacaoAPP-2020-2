@@ -13,9 +13,10 @@
 > Status do Projeto: Finalizado :heavy_check_mark:
 
 ## Descrição do projeto :star:
-<p align="justify"> App Android Calculadora das Metas. Já sonhou em comprar um carro, fazer uma viagem após pandemia (#VemVacina), pagar a tão sonhada formatura. Todos estes sonhos você necessitará transformar em metas para que seja algo tangível, ou seja, algo possível de se realizar. Pensando em sanar esta dor, nasceu o App "Calculadora das Metas", para te auxiliar a saber o quão perto você está de atingir a sua meta, com o uso do app vc não ficará mais perdido, vem logo calcular! </p>
+<p align="justify"> Já sonhou em comprar um carro, fazer uma viagem após pandemia (#VemVacina), pagar a tão sonhada formatura. Todos estes sonhos você necessitará transformar em metas para que seja algo tangível, ou seja, algo possível de se realizar. Pensando em sanar esta dor, nasceu o App "Calculadora das Metas", para te auxiliar a saber o quão perto você está de atingir a sua meta, com o uso do app vc não ficará mais perdido, vem logo calcular! </p>
 
 :pushpin: Área: Desenvolvimento front-end (XML).
+
 :pushpin: Área: Desenvolvimento back-end (Kotlin).
 
 ## Projeto :checkered_flag:
