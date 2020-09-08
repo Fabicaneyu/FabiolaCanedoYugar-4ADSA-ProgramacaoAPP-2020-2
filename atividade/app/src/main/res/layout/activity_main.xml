@@ -96,6 +96,7 @@
         />
 
     <Button
+        android:onClick="calcular"
         android:id="@+id/bt_btn"
         android:layout_width="276dp"
         android:layout_height="49dp"
