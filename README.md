@@ -7,7 +7,7 @@
 
 ## Integrante :facepunch::purple_heart:
 
- [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGBxdhfM6_lvw/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=eTnrDZXxoifEXno_7B3jOU7UJtjP2_Ji03tGZqQd1AY" width=250 > <br> <sub> Fabí Canedo Hacker</sub>](https://www.linkedin.com/in/fabicanedo/) 
+ [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGBxdhfM6_lvw/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=eTnrDZXxoifEXno_7B3jOU7UJtjP2_Ji03tGZqQd1AY" width=250 > <br> <sub> Fabí Canedo </sub>](https://www.linkedin.com/in/fabicanedo/) 
 
 
 > Status do Projeto: Finalizado :heavy_check_mark:
