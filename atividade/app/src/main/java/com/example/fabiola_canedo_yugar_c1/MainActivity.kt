@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
         var guarda20 = 20
         var guarda30 = 30
 
-
         if(valorGuardado <= (valorMeta/100)*guarda10){
             tv_resultado.setTextColor(Color.parseColor("#FF0000"))
             tv_resultado.text = "${nomeExposto}, vc guardou até 10% do valor necessário, demorará para atingir a meta ${metaEscolhida} :("
