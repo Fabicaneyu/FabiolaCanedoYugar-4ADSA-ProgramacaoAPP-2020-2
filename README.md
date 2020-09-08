@@ -1,11 +1,11 @@
 <h1 align="center"> App Android Calculadora das Metas </h1>
 
 <p align="center"> 
-     Bandtec 
+     Bandtec - Continuada 1 - Disciplina de programação app. 
 </p>
 
 
-## Integrante :facepunch::purple_heart:
+## Aluna :facepunch::purple_heart:
 
  [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGBxdhfM6_lvw/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=eTnrDZXxoifEXno_7B3jOU7UJtjP2_Ji03tGZqQd1AY" width=250 > <br> <sub> Fabí Canedo </sub>](https://www.linkedin.com/in/fabicanedo/) 
 
@@ -19,14 +19,11 @@
 
 :pushpin: Área: Desenvolvimento back-end (Kotlin).
 
-## Projeto :checkered_flag:
-
-:trophy: Continuada 1 :  Calculadora das Metas 
 
 ## Linguagens, dependencias, libs, ferramentas utilizadas :books:
 
 - [AndroidStudio4.0.1] 
-- [front-end:XML] 
-- [front-end:Kotlin] 
+- [XML] 
+- [Kotlin] 
 
 
